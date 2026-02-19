@@ -1,0 +1,7 @@
+{
+  "name": "SIPDUK Lamaknen Selatan",
+  "description": "Sistem Informasi Penduduk Digital untuk wilayah Kecamatan Lamaknen Selatan, Kabupaten Belu. Memfasilitasi manajemen data kependudukan, statistik desa, dan analisis cerdas berbasis AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

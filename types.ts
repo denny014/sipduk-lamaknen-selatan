@@ -58,7 +58,7 @@ export interface LetterRecord {
 export type ViewType = 'dashboard' | 'list' | 'add' | 'events' | 'letters' | 'social' | 'health' | 'agri' | 'ai-insight' | 'data-mgmt';
 
 export const VILLAGES = [
-  'Eban', 'Lakmaras', 'Loonuna', 'Makir', 'Sisi Fatuberal', 'Debululik', 'Henes', 'Sisil'
+  'Nualain', 'Lakmaras', 'Henes', 'Loonuna', 'Lutharato', 'Ekin', 'Sisi Fatuberal', 'Debululik', 'Majorato'
 ];
 
 export const DUSUN_LIST = [
